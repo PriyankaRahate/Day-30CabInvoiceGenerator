@@ -2,6 +2,7 @@ package com.Bridgelabz.CabInvoiceGenerator;
 
 public class Ride {
 
+	
 	private double distance;
 	private int time;
 
